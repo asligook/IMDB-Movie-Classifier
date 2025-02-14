@@ -6,11 +6,12 @@ A binary classifier for IMDB movies using various machine learning techniques :
 - Random Forest
 - K-Nearest Neighbours
 
-- Logistic Regression and Support Vector Machine are implemented using both Scikit-learn and from scratch.
+#### Notes 
+* Logistic Regression and Support Vector Machine are implemented using both Scikit-learn and from scratch.
 
-- Evaluation metrics, performances for all classifiers are included in the project report.
+* Evaluation metrics, performances for all classifiers are included in the project report.
 
-This project is done collaboratively with Nazlıcan Aka and Dağlar Eren Tekşen for CMPE462 - Machine Learning course at Bogazici University.
+* This project is done collaboratively with Nazlıcan Aka and Dağlar Eren Tekşen for CMPE462 - Machine Learning course at Bogazici University.
 
 
 ## Execution
@@ -20,7 +21,7 @@ This project is done collaboratively with Nazlıcan Aka and Dağlar Eren Tekşen
 
 - This file can be executed by the following command:
 
-> > python fetch_data.py
+> python fetch_data.py
 
 - After these steps, we have uploaded film_responses.json file to the Google Colab environment then run the 2 notebooks within Google Colab,all the feature extraction, data preprocessing, model implementations (task 1 and 2 ) are located in the 462_project.ipynb
 
